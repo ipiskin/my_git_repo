@@ -1,6 +1,6 @@
 //"First git pull
-<<<<<<< HEAD
+
 Local code
-=======
+
 Remote code
->>>>>>> d15bcf418d140987444e5e75df29b6a245218e08
+
